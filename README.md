@@ -1,1 +1,1 @@
-Create programm BeatBox and simple server for it.
+Create programm "BeatBox" and simple server for it.
